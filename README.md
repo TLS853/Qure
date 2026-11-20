@@ -6,9 +6,22 @@
 Qure 是一套专为 [Quantumult X](https://github.com/crossutility/Quantumult-X/) 内策略组而精心设计的图标组。在这里你可以订阅、下载并更新它们。<br>
 
 ## 使用说明
-「PROXY」订阅推荐使用Qure mini(纯白)图标集：https://raw.githubusercontent.com/Koolson/Qure/master/Other/Quremini.json
+「PROXY」订阅推荐使用Qure mini(纯白)图标集：https://raw.githubusercontent.com/TLS853/Qure/master/Other/Quremini.json
 
-「自定义策略」订阅推荐使用Qure Color(彩色)图标集：https://raw.githubusercontent.com/Koolson/Qure/master/Other/QureColor.json
+「自定义策略」订阅推荐使用Qure Color(彩色)图标集：https://raw.githubusercontent.com/TLS853/Qure/master/Other/QureColor.json
+
+### Tailscale
+
+新增 `Tailscale.png`，已收录到 Qure Color、Color (All)、Color (Service)、Light (All) 和 mini 订阅。
+
+| 样式 | 尺寸 | 图标链接 |
+| --- | --- | --- |
+| Color（官方深灰） | 144 × 144 | [Tailscale.png](https://raw.githubusercontent.com/TLS853/Qure/master/IconSet/Color/Tailscale.png) |
+| Light（白色） | 108 × 108 | [Tailscale.png](https://raw.githubusercontent.com/TLS853/Qure/master/IconSet/Tailscale.png) |
+| Dark（黑色） | 108 × 108 | [Tailscale.png](https://raw.githubusercontent.com/TLS853/Qure/master/IconSet/Dark/Tailscale.png) |
+| mini（灰色） | 144 × 144 | [Tailscale.png](https://raw.githubusercontent.com/TLS853/Qure/master/IconSet/mini/Tailscale.png) |
+
+标志来源：[Tailscale 官方品牌素材](https://tailscale.com/press)，版权归 Tailscale 所有。
 
 ## 补充说明
 转载请注明出处，谢谢！<br>
